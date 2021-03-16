@@ -1,6 +1,5 @@
 import React from "react";
 import Comp2 from "./components/Comp2";
-
 import { ThemeProvider } from "./contexts/ThemeContext";
 
 class App extends React.Component {
